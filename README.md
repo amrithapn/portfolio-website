@@ -60,7 +60,6 @@ This project can be hosted using GitHub Pages:
 
 **Amritha**
 AI & Data Science Engineering Student
-
 GitHub: https://github.com/amrithapn
 LinkedIn: https://linkedin.com/in/p-n-amritha
 
