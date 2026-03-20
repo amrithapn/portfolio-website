@@ -12,6 +12,7 @@ The main purpose of this project is to present my profile in a structured and vi
 
 
 ## Project Structure
+```
 portfolio/
 │
 ├── index.html
@@ -21,7 +22,7 @@ portfolio/
 ├── airline-system.jpg
 ├── signal-jammer.jpg
 ├── technology-grid-moewalls-com.mp4
-
+```
 
 ## Setup Instructions
 
