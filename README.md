@@ -48,7 +48,6 @@ This project can be hosted using GitHub Pages:
 
 
 ## Features
-
 * Full-screen background video
 * Smooth navigation between sections
 * Responsive design for different screen sizes
@@ -57,10 +56,12 @@ This project can be hosted using GitHub Pages:
 
 
 ## Author
-
 **Amritha**
+
 AI & Data Science Engineering Student
+
 GitHub: https://github.com/amrithapn
+
 LinkedIn: https://linkedin.com/in/p-n-amritha
 
 ---
