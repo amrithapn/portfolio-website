@@ -28,7 +28,7 @@ portfolio/
 
 1. Download or clone the repository:
    ```
-   [git clone https://amrithapn.github.io/portfolio-website/]
+   git clone https://amrithapn.github.io/portfolio-website/
    ```
 2. Open the project folder.
 3. Ensure all files (images and video) are in the correct directory as shown above.
